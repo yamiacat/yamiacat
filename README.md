@@ -49,3 +49,8 @@ puts s
 Shamelessly stolen from [here](https://codegolf.stackexchange.com/questions/6043/were-no-strangers-to-code-golf-you-know-the-rules-and-so-do-i)
 
 </details>
+
+### Can you interact with these!?
+
+- [ ] Tick this one
+- [x] Untick this one
