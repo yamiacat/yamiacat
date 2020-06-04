@@ -16,3 +16,36 @@
 | nunchuck skills         | ⚫️ ⚫️ ⚪️ ⚪️ ⚪️        |
 | bow hunting skills      | ⚫️ ⚪️ ⚪️ ⚪️ ⚪️        |
 | computer hacking skills | ⚫️ ⚫️ ⚫️ ⚪️ ⚪️        |
+
+
+### You know, of course, what will be in here
+
+<details>
+  
+<summary>It's what you're expecting</summary>
+
+```ruby
+
+i=44
+s="We; n7trangMsL8loT63Ke rules5s8d8I
+AJull commit4nt'sChatFKink: of6CHldn'tRetKisJrom<ny@Ruy-/A= if?<sk 42DS'tLE 4?;Lo8bli=L7ee..
+O,R1)O,R001)/-.."
+"
+I justCannaLE?2Gotta >u=Msta=.|
+Ng1Nlet? downNrun<rH=5desMt?N>cryNsayRoodbyeNtE< lie5hurt?|
+
+We'T3n each@Jor s8lSg6r hear9<ch: but6;Lo7hyL7BInsideCe both3Cha9Ro: S
+We3KeRa45we;QplB|1)O)NgiT, nPgiT
+(G|iT? up| howFJeel:
+| know|me|<= |
+YH|8s|o |t's been|ing|'re| a|nd|make? | yH| othM|A|ay it
+| w|D|ell| I'm|G|ou|I| f|Lh| t|er|
+NP|
+(Ooh|eTrQ|RSna | g|on|ve".scan(/[^|]+/){s.gsub!((i+=1).chr,$&)}
+puts s
+
+```
+
+Shamelessly stolen from [here](https://codegolf.stackexchange.com/questions/6043/were-no-strangers-to-code-golf-you-know-the-rules-and-so-do-i)
+
+</details>
