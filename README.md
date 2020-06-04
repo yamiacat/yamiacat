@@ -8,3 +8,11 @@
 - Books
 - Peaty Scotch
 - Communal karaoke
+
+### Do you like markdown tables yes/no
+
+| Skill                   | Ranking |
+|-------------------------|---------|
+| nunchuck skills         | ⚫️ ⚫️ ⚪️ ⚪️ ⚪️        |
+| bow hunting skills      | ⚫️ ⚪️ ⚪️ ⚪️ ⚪️        |
+| computer hacking skills | ⚫️ ⚫️ ⚫️ ⚪️ ⚪️        |
