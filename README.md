@@ -1,6 +1,6 @@
 # yamiacat - Matt - He/Him
 
-![Header](/assets/oh-no.jpg)
+![Header](assets/oh-no.jpg)
 
 ### Do you like unordered lists? I like unordered lists
 
