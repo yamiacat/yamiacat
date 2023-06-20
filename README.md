@@ -54,3 +54,7 @@ Shamelessly stolen from [here](https://codegolf.stackexchange.com/questions/6043
 
 - [ ] Tick this one
 - [x] Untick this one
+
+### Ye Olde Relative Link
+
+[TEST](test.md)
